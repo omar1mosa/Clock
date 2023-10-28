@@ -90,11 +90,15 @@ section::after {
     }
     section {
         height: 850px;
-        width: 390px;
+        width: 390px;   
         position: relative;
         background: #19172e;
         display: flex;
-        justify-content: center;
         align-items: center;
+        text-align: center;
     }
-}
+    .container {
+        padding-right: 74px;
+        
+    }
+}   
