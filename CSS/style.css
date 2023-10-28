@@ -82,3 +82,18 @@ section::after {
     color: #fff;
     font-weight: 700;
 }
+@media (max-width:768px) {
+    .clock .container h2 {
+        position: relative;
+        font-size: 2rem;
+    }
+    section {
+        height: 850px;
+        width: 330px;
+        position: relative;
+        background: #19172e;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
