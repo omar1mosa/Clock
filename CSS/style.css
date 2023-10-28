@@ -86,7 +86,7 @@ section::after {
     .clock .container h2 {
         left: 50px;
         position: relative;
-        font-size: 2rem;
+        font-size: 3rem;
     }
     section {
         height: 850px;
